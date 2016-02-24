@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package poo.jfueyo.c7;
+package poo.jfueyo.a3;
 
 /**
  *
  * @author jesus_ignacio_159
  */
-public class POOJFueyoC7 {
+public class POOJFueyoA3 {
 
     /**
      * @param args the command line arguments
